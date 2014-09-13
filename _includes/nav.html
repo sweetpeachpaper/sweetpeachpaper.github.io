@@ -1,0 +1,7 @@
+{% for navitem in site.data.nav %}
+<li><a href="{{ navitem.url | prepend:site.baseurl }}">{{ navitem.name }}</a></li>
+{% endfor %}
+
+
+<!-- <li><a href="{{ "/archive" | prepend:site.baseurl }}">Archive</a></li>
+<li><a href="http://github.com/ellekasai/shiori" target="_blank">Download</a></li> -->
