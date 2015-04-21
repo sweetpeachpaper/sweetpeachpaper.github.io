@@ -1,8 +1,11 @@
 ---
 title: "Shiori by Example: Helpful Bootstrap Components"
+published: true
 ---
 
 With Shiori, you can take advantage of all the available components in Bootstrap. Here are some useful components for blogging.
+
+
 
 ## Buttons and Font Awesome
 
